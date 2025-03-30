@@ -59,14 +59,6 @@ I'm a passionate software developer with expertise in building robust backend sy
 
 ---
 
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/billbaccara)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/billbaccara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@billbaccara.com)
-
----
-
 ### 📌 Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baccaraaa&repo=awesome-python-project&theme=radical)](https://github.com/baccaraaa/awesome-python-project)
