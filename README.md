@@ -1,69 +1,47 @@
-# 👋 Hi, I'm Bill Baccara (@baccaraaa)
+**Backend Developer** specializing in Python/FastAPI with full-stack experience
 
-## 💻 Full Stack Developer | Python Expert | Node.js Enthusiast
+## About
 
-![Profile Views](https://komarev.com/ghpvc/?username=baccaraaa&color=blueviolet)
+Experienced developer focused on building scalable backend systems and APIs. Working with cryptocurrency platforms, fintech solutions, and high-load applications. Passionate about clean code, system architecture, and performance optimization.
 
----
+## Tech Stack
 
-### 🚀 About Me
+**Backend**
+- Python, FastAPI, Flask
+- PostgreSQL, MongoDB, Redis
+- Docker, Kubernetes
 
-I'm a passionate software developer with expertise in building robust backend systems and scalable web applications. With a strong foundation in Python and growing experience with Node.js, I enjoy tackling complex problems and creating efficient solutions.
+**Frontend**
+- JavaScript, TypeScript
+- React, Next.js
+- HTML, CSS
 
----
+**Infrastructure**
+- Linux, Git
+- API Integration
+- Microservices Architecture
 
-### 🛠️ Tech Stack
+## Current Focus
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Cryptocurrency wallet infrastructure development
+- Telegram Mini Apps (TMA)
+- Financial analytics platforms
+- High-performance APIs
 
----
+## Experience Highlights
 
-### 👨‍💻 Experience
+- Built payment processing systems handling 100k+ daily requests
+- Developed cryptocurrency trading bots and wallet solutions
+- Created Telegram bots with advanced automation
+- Reverse engineering and API integration expertise
 
-#### Backend Developer at TechSolutions Inc. (2021-Present)
-- Developed and maintained scalable microservices using Python and FastAPI
-- Implemented CI/CD pipelines reducing deployment time by 40%
-- Optimized database queries resulting in 30% improvement in API response times
-- Migrated legacy systems to modern architecture patterns
+## Languages
 
-#### Software Engineer at DataCraft Labs (2019-2021)
-- Built RESTful APIs using Django and Django REST Framework
-- Designed and implemented data processing pipelines handling millions of records daily
-- Collaborated with cross-functional teams to deliver features on tight deadlines
-- Mentored junior developers and conducted code reviews
+- Russian (Native)
+- Ukrainian (Native)
+- English (C1)
 
-#### Full Stack Developer at WebPrime (2018-2019)
-- Developed web applications using Node.js, Express, and MongoDB
-- Created responsive frontend interfaces with React.js
-- Implemented authentication and authorization systems
-- Participated in agile development processes
+## Contact
 
----
-
-### 📊 GitHub Stats
-
-![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=baccaraaa&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baccaraaa&layout=compact&theme=radical)
-
----
-
-### 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baccaraaa&repo=awesome-python-project&theme=radical)](https://github.com/baccaraaa/awesome-python-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baccaraaa&repo=node-express-api&theme=radical)](https://github.com/baccaraaa/node-express-api)
-
----
-
-⭐️ From [baccaraaa](https://github.com/baccaraaa)
+- **Telegram**: @notdaemon
+- **LinkedIn**: [vladeveloper](https://linkedin.com/in/vladeveloper)
