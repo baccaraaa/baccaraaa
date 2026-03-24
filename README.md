@@ -10,12 +10,12 @@ Working with cryptocurrency platforms, fintech, and high-load applications. Auth
 Backend       TypeScript, NestJS, Node.js, Python, FastAPI
 Databases     PostgreSQL, Redis, MongoDB
 Messaging     RabbitMQ, Redis Streams
-ORM           Prisma, TypeORM
+ORM           Prisma, TypeORM, SQLAlchemy
 Frontend      React, Next.js
 Infra         Docker, Kubernetes, GitHub Actions
 ```
 
-## Featured Project
+## Featured Projects
 
 ### [Vorq](https://github.com/baccaraaa/vorq) -- Distributed Task Queue
 
@@ -37,6 +37,17 @@ const pipeline = vorq
 **4 packages** on npm | **175 tests** | Redis & RabbitMQ | NestJS integration
 
 [![npm](https://img.shields.io/npm/v/@vorq/core?label=%40vorq%2Fcore)](https://www.npmjs.com/package/@vorq/core)
+
+### [Task Manager](https://github.com/baccaraaa/TaskManager) -- REST API
+
+Production-ready task management API on FastAPI with async architecture.
+
+```bash
+curl -X POST /api/v1/tasks/ -H "Authorization: Bearer <token>" \
+  -d '{"title": "Deploy v2", "priority": "high", "project_id": 1}'
+```
+
+**FastAPI + PostgreSQL + Redis + Celery** | JWT auth | WebSocket | **131 tests**
 
 ## Experience
 
